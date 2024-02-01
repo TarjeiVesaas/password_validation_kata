@@ -11,7 +11,7 @@ def passwordinput():
     else:
         print("Good job! That password finally worked!")
         print("Saving your password...")
-        print("Saveeeeeeeeeeeed!")
+        print("Saved!")
 
 
 from password_checker import password_checker, NoCapitalLetterError, NoLowerCaseError, NoDigitsError, \
